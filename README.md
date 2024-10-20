@@ -22,7 +22,7 @@ I’m a student embarking on an exciting journey into web development. 🚀
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,postman,mongodb&theme=dark" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,nextjs,postman,mongodb&theme=dark" alt="Languages and Tools" />
   </a>
 </p>
 
