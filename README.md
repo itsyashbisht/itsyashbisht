@@ -1,12 +1,7 @@
 <h1 align="center">👋 Hi There! I'm YASH BISHT</h1>
 
 ### 🌟 About Me
-I’m a student embarking on an exciting journey into web development. 🚀
-
-- 🎓 Currently pursuing a B.Tech. in Computer Science Technology (CST) at Dr. Akhilesh Das Gupta Institute of Professional Studies (ADGIPS)
-- 🌐 Exploring both front-end and back-end technologies
-- 💡 Passionate about discovering new tools, frameworks, and best practices
-- 🌟 Committed to creating intuitive and impactful web applications
+Computer Science undergraduate at GGSIPU with a passion for technology and turning ideas into reality. My journey started with frontend development using JavaScript and web design, where I aim to create impactful solutions focused on user experience. Currently on my ongoing pursuit of mastering the React.js, Next.js and Redux.js, which will enhance my ability to develop full-stack applications.
 
 ### 📬 Connect with Me
 <p align="left">
