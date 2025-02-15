@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi There! I'm YASH BISHT</h1>
 
 ### 🌟 About Me
-I'm a CS undergrad passionate about building user-centric solutions that people love to use. I specialize in React.js and Redux-toolkit, focusing on state management, performance optimization, and seamless UI/UX. I have a strong grasp of JavaScript. Also a startup enthusiast, always exploring innovative ideas, problem-solving, and building impactful products.
+I'm a CS undergrad passionate about building user-centric solutions that people love to use. I specialize in React.js and Redux-toolkit, focusing on state management, performance optimization, and seamless UI/UX. I have a strong grasp of JavaScript.
 
 ### 📬 Connect with Me
 <p align="left">
