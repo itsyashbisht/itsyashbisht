@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi There! I'm YASH BISHT</h1>
 
 ### 🌟 About Me
-Computer Science undergraduate at GGSIPU with a passion for technology and turning ideas into reality. My journey started with frontend development using JavaScript and web design, where I aim to create impactful solutions focused on user experience. Currently on my ongoing pursuit of mastering the React.js, Next.js and Redux.js, which will enhance my ability to develop full-stack applications.
+I'm a CS undergrad passionate about building user-centric solutions that people love to use. I specialize in React.js and Redux-toolkit, focusing on state management, performance optimization, and seamless UI/UX. I have a strong grasp of JavaScript. Also a startup enthusiast, always exploring innovative ideas, problem-solving, and building impactful products.
 
 ### 📬 Connect with Me
 <p align="left">
