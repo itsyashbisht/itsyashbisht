@@ -3,17 +3,6 @@
 ### 🌟 About Me
 Engineering student specializing in Computer Science, passionate about building user-centric, scalable, and impactful web applications. Skilled in frontend development with React.js, Next.js, TypeScript, Tailwind CSS, Context API, Redux Toolkit, React Query, and Axios — and now expanding into full-stack development with Node.js, Express, and MongoDB.
 
-### 📬 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/yashbisht26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:yashbisht2005@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bc3b581d-913f-4049-9637-9a35b02880af" alt="Email" height="28" width="40" />
-  </a>
-</p>
-
 ### 🛠️ Languages
 <p align="left">
   <a href="https://skillicons.dev">
